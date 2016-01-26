@@ -1,6 +1,6 @@
 {
-  "name": "Loop",
-  "version": "0.0.0",
+  "name": "insidium",
+  "version": "0.0.1",
   "description": "Loop landing page",
   "main": "app.js",
   "dependencies": {
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArmandHammer/Loop.git"
+    "url": "git+https://github.com/ArmandHammer/InsidiumWebsite"
   },
   "author": "Armand Obreja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArmandHammer/Loop/issues"
+    "url": "https://github.com/ArmandHammer/InsidiumWebsite/issues"
   },
-  "homepage": "https://github.com/ArmandHammer/Loop"
+  "homepage": "https://github.com/ArmandHammer/InsidiumWebsite"
 }
