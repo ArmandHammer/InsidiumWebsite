@@ -1,0 +1,23 @@
+{
+  "name": "Loop",
+  "version": "0.0.0",
+  "description": "Loop landing page",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmandHammer/Loop.git"
+  },
+  "author": "Armand Obreja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmandHammer/Loop/issues"
+  },
+  "homepage": "https://github.com/ArmandHammer/Loop"
+}
